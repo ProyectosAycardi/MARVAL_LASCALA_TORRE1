@@ -3,13 +3,49 @@
    Depende de: data/datos.json y carpeta recomendaciones/
    Uso: Documentos de recomendacion de aditivos, resinas, anclajes y empalmes
 ========================================== */
+let DATA = {};
+function configurarSideMenu() {
 
+  const config = DATA.info.configuracion || {};
+
+  if (!config.columnas)
+      document.getElementById("sideColumnas")?.remove();
+
+  if (!config.muros)
+      document.getElementById("sideMuros")?.remove();
+
+  if (!config.vigas)
+      document.getElementById("sideVigas")?.remove();
+
+  if (!config.vigasAcople)
+      document.getElementById("sideVigasAcople")?.remove();
+
+  if (!config.losas)
+      document.getElementById("sideLosas")?.remove();
+
+  if (!config.noes)
+      document.getElementById("sideNoes")?.remove();
+
+  if (!config.contencion)
+      document.getElementById("sideContencion")?.remove();
+
+  if (!config.pilotes)
+      document.getElementById("sidePilotes")?.remove();
+
+  if (!config.vigasCimentacion)
+      document.getElementById("sideVigasCim")?.remove();
+
+  if (!config.losaCimentacion)
+      document.getElementById("sideLosaCim")?.remove();
+}
 
 fetch("data/datos.json")
   .then(res => res.json())
   .then(data => {
-    const grid = document.getElementById("gridRecomendaciones");
+    DATA = data;
 
+    const grid = document.getElementById("gridRecomendaciones");
+    configurarSideMenu();
     const lista = data.recomendaciones.filter(r =>
       r.documento.toLowerCase() !== "documento"
     );

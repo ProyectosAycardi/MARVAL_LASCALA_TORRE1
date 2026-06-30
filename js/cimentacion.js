@@ -72,6 +72,26 @@ const tipoGrafica = document.getElementById("tipoGrafica");
 
 let chart = null;
 
+function configurarSideMenu() {
+
+  const config = DATA.info.configuracion || {};
+
+  if (!config.contencion)
+      document.getElementById("sideContencion")?.remove();
+
+  if (!config.vigasCimentacion)
+      document.getElementById("sideVigasCim")?.remove();
+
+  if (!config.losaCimentacion)
+      document.getElementById("sideLosaCim")?.remove();
+
+  if (!config.pilotes)
+      document.getElementById("sidePilotes")?.remove();
+
+  if (!config.noes)
+      document.getElementById("sideNoes")?.remove();
+}
+
 if (!TIPOS_CIMENTACION.includes(tipo)) {
   detalle.innerHTML = "<p>Tipo no válido para cimentación</p>";
   throw new Error("Tipo no válido en cimentacion.js");
@@ -85,6 +105,7 @@ fetch("data/datos.json")
   .then(res => res.json())
   .then(data => {
     DATA = data;
+    configurarSideMenu();
     document.getElementById("tituloProyecto").textContent =
       data.info.proyecto;
 

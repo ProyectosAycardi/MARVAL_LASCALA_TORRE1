@@ -57,6 +57,29 @@ const tipoGrafica = document.getElementById("tipoGrafica");
 
 let chart = null;
 
+function configurarSideMenu() {
+
+  const config = DATA.info.configuracion || {};
+
+  if (!config.columnas)
+      document.getElementById("sideColumnas")?.remove();
+
+  if (!config.muros)
+      document.getElementById("sideMuros")?.remove();
+
+  if (!config.vigas)
+      document.getElementById("sideVigas")?.remove();
+
+  if (!config.vigasAcople)
+      document.getElementById("sideVigasAcople")?.remove();
+
+  if (!config.losas)
+      document.getElementById("sideLosas")?.remove();
+
+  if (!config.noes)
+      document.getElementById("sideNoes")?.remove();
+}
+
 /* =====================================================
    INICIALIZACIÓN 
 ===================================================== */
@@ -65,6 +88,7 @@ fetch("data/datos.json")
   .then(res => res.json())
   .then(data => {
     DATA = data;
+    configurarSideMenu();
     document.getElementById("tituloProyecto").textContent =
       data.info.proyecto;
 

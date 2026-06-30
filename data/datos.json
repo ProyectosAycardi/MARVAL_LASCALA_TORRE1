@@ -12,7 +12,19 @@
     "directorProyecto": "Carlos Wilches",
     "carbono": 50,
     "progresoDibujo": 1,
-    "progresoDiseno": 1
+    "progresoDiseno": 1,
+    "configuracion": {
+      "columnas": false,
+      "muros": true,
+      "vigas": true,
+      "vigasAcople": true,
+      "losas": true,
+      "contencion": false,
+      "pilotes": true,
+      "vigasCimentacion": true,
+      "losaCimentacion": true,
+      "noes": true
+    }
   },
   "planos": [
     {
@@ -754,6 +766,7 @@
       "peso": 134824
     }
   ],
+  "vigasAcople": [],
   "losas": [
     {
       "piso": "Piso",
@@ -1521,151 +1534,176 @@
       "categoria": "Categoría",
       "elemento": "Elemento",
       "descripcion": "Descripción",
-      "nivel": "Nivel"
+      "nivel": "Nivel",
+      "prioridad": ""
     },
     {
       "categoria": "Pilotes",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Muro pantalla",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa cimentación",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas cimentación",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Columnas",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Muros",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Piso 1",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Piso 1",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Piso 2",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Piso 2",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Piso 3",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Piso 3",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Piso 4",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Piso 4",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Piso 5",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Piso 5",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Piso 6",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Piso 6",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Piso 7",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Piso 7",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Cubierta",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Losa Cubierta",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Vigas Cub Maquinas",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     },
     {
       "categoria": "Cubierta maquinas",
       "elemento": "",
       "descripcion": "",
-      "nivel": ""
+      "nivel": "",
+      "prioridad": ""
     }
   ]
 }

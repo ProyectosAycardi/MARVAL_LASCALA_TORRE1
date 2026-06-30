@@ -12,9 +12,39 @@ fetch("data/datos.json")
   .then(res => res.json())
   .then(data => {
     DATA = data;
-
+    const config = DATA.info.configuracion || {};
     document.getElementById("tituloProyecto").textContent =
       data.info.proyecto;
+
+    if (!config.columnas)
+    document.getElementById("cardColumnas")?.remove();
+
+    if (!config.muros)
+        document.getElementById("cardMuros")?.remove();
+
+    if (!config.vigas)
+        document.getElementById("cardVigas")?.remove();
+
+    if (!config.vigasAcople)
+        document.getElementById("cardVigasAcople")?.remove();
+
+    if (!config.losas)
+        document.getElementById("cardLosas")?.remove();
+
+    if (!config.contencion)
+        document.getElementById("cardContencion")?.remove();
+
+    if (!config.pilotes)
+        document.getElementById("cardPilotes")?.remove();
+
+    if (!config.vigasCimentacion)
+        document.getElementById("cardVigasCimentacion")?.remove();
+
+    if (!config.losaCimentacion)
+        document.getElementById("cardLosaCimentacion")?.remove();
+
+    if (!config.noes)
+        document.getElementById("cardNoes")?.remove();
 
     configurarBarraProgreso(data.info);
 
