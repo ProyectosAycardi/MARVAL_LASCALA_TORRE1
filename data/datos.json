@@ -36,620 +36,620 @@
       "pdf": "Plano.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_01.00_IND",
+      "plano": "LA SCALA_EST_TOR-1-01.00-IND",
       "numero": "1",
       "version": 9,
-      "fecha": 0,
+      "fecha": 46191,
       "contenido": "ÍNDICE DE PLANOS",
-      "pdf": "LA SCALA_EST_TOR-1_01.00_IND.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-01.00-IND.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_01.01_IND",
+      "plano": "LA SCALA_EST_TOR-1-01.01-IND",
       "numero": "1.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45935,
       "contenido": "CORTE LONGITUDINAL Y CUADRO DE ESPECIFICACIONES",
-      "pdf": "LA SCALA_EST_TOR-1_01.01_IND.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-01.01-IND.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_01.02_DT-GEN",
+      "plano": "LA SCALA_EST_TOR-1-01.02-DT-GEN",
       "numero": "1.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45935,
       "contenido": "DETALLES GENERALES",
-      "pdf": "LA SCALA_EST_TOR-1_01.02_DT-GEN.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-01.02-DT-GEN.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_02.00_LPIL",
+      "plano": "LA SCALA_EST_TOR-1-02.00-LPIL",
       "numero": "2",
       "version": 6,
-      "fecha": 0,
+      "fecha": 46191,
       "contenido": "PLANTA DE LOCALIZACIÓN DE PILOTES",
-      "pdf": "LA SCALA_EST_TOR-1_02.00_LPIL.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-02.00-LPIL.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_02.01_DT-PIL",
+      "plano": "LA SCALA_EST_TOR-1-02.01-DT-PIL",
       "numero": "2.01",
       "version": 3,
-      "fecha": 0,
+      "fecha": 45708,
       "contenido": "DETALLES Y CUADRO DE PILOTES",
-      "pdf": "LA SCALA_EST_TOR-1_02.01_DT-PIL.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-02.01-DT-PIL.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.00_LCM-CIM",
+      "plano": "LA SCALA_EST_TOR-1-03.00-LCM-CIM",
       "numero": "3",
       "version": 3,
-      "fecha": 0,
+      "fecha": 45965,
       "contenido": "PLANTA DE LOCALIZACIÓN DE MUROS CIMENTACIÓN",
-      "pdf": "LA SCALA_EST_TOR-1_03.00_LCM-CIM.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.00-LCM-CIM.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.01_CIM",
+      "plano": "LA SCALA_EST_TOR-1-03.01-CIM",
       "numero": "3.01",
       "version": 4,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE CIMENTACIÓN",
-      "pdf": "LA SCALA_EST_TOR-1_03.01_CIM.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.01-CIM.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.02_DT-CIM",
+      "plano": "LA SCALA_EST_TOR-1-03.02-DT-CIM",
       "numero": "3.02",
       "version": 3,
-      "fecha": 0,
+      "fecha": 45935,
       "contenido": "CORTES Y DETALLES DE CIMENTACIÓN",
-      "pdf": "LA SCALA_EST_TOR-1_03.02_DT-CIM.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.02-DT-CIM.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.03_LDAD",
+      "plano": "LA SCALA_EST_TOR-1-03.03-LDAD",
       "numero": "3.03",
       "version": 4,
-      "fecha": 0,
+      "fecha": 46051,
       "contenido": "PLANTA DE LOCALIZACIÓN DE DADOS Y DETALLES",
-      "pdf": "LA SCALA_EST_TOR-1_03.03_LDAD.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.03-LDAD.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.04_DT-FS",
+      "plano": "LA SCALA_EST_TOR-1-03.04-DT-FS",
       "numero": "3.04",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45935,
       "contenido": "DESPIECE FOSO DE ASCENSORES",
-      "pdf": "LA SCALA_EST_TOR-1_03.04_DT-FS.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.04-DT-FS.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.05_CIM-D1",
+      "plano": "LA SCALA_EST_TOR-1-03.05-CIM-D1",
       "numero": "3.05",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46051,
       "contenido": "DESPIECE VIGAS DE CIMENTACIÓN",
-      "pdf": "LA SCALA_EST_TOR-1_03.05_CIM-D1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.05-CIM-D1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.06_CIM-D2",
+      "plano": "LA SCALA_EST_TOR-1-03.06-CIM-D2",
       "numero": "3.06",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46051,
       "contenido": "DESPIECE VIGAS DE CIMENTACIÓN",
-      "pdf": "LA SCALA_EST_TOR-1_03.06_CIM-D2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.06-CIM-D2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_03.07_CIM-D3",
+      "plano": "LA SCALA_EST_TOR-1-03.07-CIM-D3",
       "numero": "3.07",
       "version": 4,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE VIGAS DE CIMENTACIÓN",
-      "pdf": "LA SCALA_EST_TOR-1_03.07_CIM-D3.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-03.07-CIM-D3.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_04.00_LCM-P1",
+      "plano": "LA SCALA_EST_TOR-1-04.00-LCM-P1",
       "numero": "4",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45965,
       "contenido": "PLANTA LOCALIZACIÓN DE MUROS PISO 1",
-      "pdf": "LA SCALA_EST_TOR-1_04.00_LCM-P1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-04.00-LCM-P1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_04.01_LDINT-P1",
+      "plano": "LA SCALA_EST_TOR-1-04.01-LDINT-P1",
       "numero": "4.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45933,
       "contenido": "PLANTA LOCALIZACIÓN E IDENTIFICACIÓN DE DINTELES PISO 1",
-      "pdf": "LA SCALA_EST_TOR-1_04.01_LDINT-P1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-04.01-LDINT-P1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_04.02_P1-RADC",
+      "plano": "LA SCALA_EST_TOR-1-04.02-P1-RADC",
       "numero": "4.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45933,
       "contenido": "PLANTA DE REFUERZO ADICIONAL PISO 1",
-      "pdf": "LA SCALA_EST_TOR-1_04.02_P1-RADC.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-04.02-P1-RADC.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_04.03_P1-RINF",
+      "plano": "LA SCALA_EST_TOR-1-04.03-P1-RINF",
       "numero": "4.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45933,
       "contenido": "PLANTA  DE REFUERZO INFERIOR  PISO 1",
-      "pdf": "LA SCALA_EST_TOR-1_04.03_P1-RINF.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-04.03-P1-RINF.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_04.04_P1-RSUP",
+      "plano": "LA SCALA_EST_TOR-1-04.04-P1-RSUP",
       "numero": "4.04",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45933,
       "contenido": "PLANTA  DE REFUERZO SUPERIOR  PISO 1",
-      "pdf": "LA SCALA_EST_TOR-1_04.04_P1-RSUP.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-04.04-P1-RSUP.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_05.00_LCM-P2",
+      "plano": "LA SCALA_EST_TOR-1-05.00-LCM-P2",
       "numero": "5",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45965,
       "contenido": "PLANTA LOCALIZACIÓN DE MUROS PISO 2",
-      "pdf": "LA SCALA_EST_TOR-1_05.00_LCM-P2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-05.00-LCM-P2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_05.01_LDINT-P2",
+      "plano": "LA SCALA_EST_TOR-1-05.01-LDINT-P2",
       "numero": "5.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA LOCALIZACIÓN E IDENTIFICACIÓN DE DINTELES PISO 2",
-      "pdf": "LA SCALA_EST_TOR-1_05.01_LDINT-P2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-05.01-LDINT-P2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_05.02_P2-RADC",
+      "plano": "LA SCALA_EST_TOR-1-05.02-P2-RADC",
       "numero": "5.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO ADICIONAL PISO 2",
-      "pdf": "LA SCALA_EST_TOR-1_05.02_P2-RADC.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-05.02-P2-RADC.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_05.03_P2-RINF",
+      "plano": "LA SCALA_EST_TOR-1-05.03-P2-RINF",
       "numero": "5.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA  DE REFUERZO INFERIOR PISO 2",
-      "pdf": "LA SCALA_EST_TOR-1_05.03_P2-RINF.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-05.03-P2-RINF.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_05.04_P2-RSUP",
+      "plano": "LA SCALA_EST_TOR-1-05.04-P2-RSUP",
       "numero": "5.04",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA  DE REFUERZO SUPERIOR  PISO 2",
-      "pdf": "LA SCALA_EST_TOR-1_05.04_P2-RSUP.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-05.04-P2-RSUP.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_06.00_LCM-PT1",
+      "plano": "LA SCALA_EST_TOR-1-06.00-LCM-PT1",
       "numero": "6",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45965,
       "contenido": "PLANTA LOCALIZACIÓN DE MUROS PISO TIPO 1",
-      "pdf": "LA SCALA_EST_TOR-1_06.00_LCM-PT1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-06.00-LCM-PT1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_06.01_LDINT-PT1",
+      "plano": "LA SCALA_EST_TOR-1-06.01-LDINT-PT1",
       "numero": "6.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA LOCALIZACIÓN E IDENTIFICACIÓN DE DINTELES PISO TIPO 1 ( PISO 3 A PISO 15 )",
-      "pdf": "LA SCALA_EST_TOR-1_06.01_LDINT-PT1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-06.01-LDINT-PT1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_06.02_PT1-RADC",
+      "plano": "LA SCALA_EST_TOR-1-06.02-PT1-RADC",
       "numero": "6.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO ADICIONAL PISO TIPO 1 (PISO 3 A 15)",
-      "pdf": "LA SCALA_EST_TOR-1_06.02_PT1-RADC.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-06.02-PT1-RADC.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "plano": "LA SCALA_EST_TOR-1-06.03-PT1-RINF",
       "numero": "6.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO INFERIOR PISO TIPO 1 ( PISO 3 A PISO 15)",
-      "pdf": "LA SCALA_EST_TOR-1_06.03_PT1-RINF.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-06.03-PT1-RINF.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_06.04_PT1-RSUP",
+      "plano": "LA SCALA_EST_TOR-1-06.04-PT1-RSUP",
       "numero": "6.04",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO SUPERIOR PISO TIPO 1 (PISO 3 A PISO 15)",
-      "pdf": "LA SCALA_EST_TOR-1_06.04_PT1-RSUP.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-06.04-PT1-RSUP.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_07.00_LCM-PT2",
+      "plano": "LA SCALA_EST_TOR-1-07.00-LCM-PT2",
       "numero": "7",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45965,
       "contenido": "PLANTA LOCALIZACIÓN DE MUROS PISO TIPO 2 ( PISO 15 A PISO 21 )",
-      "pdf": "LA SCALA_EST_TOR-1_07.00_LCM-PT2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-07.00-LCM-PT2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_07.01_LDINT-PT2",
+      "plano": "LA SCALA_EST_TOR-1-07.01-LDINT-PT2",
       "numero": "7.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA LOCALIZACIÓN E IDENTIFICACIÓN DE DINTELES PISO TIPO 2 ( PISO 16 A PISO 22 )",
-      "pdf": "LA SCALA_EST_TOR-1_07.01_LDINT-PT2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-07.01-LDINT-PT2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_07.02_PT2-RADC",
+      "plano": "LA SCALA_EST_TOR-1-07.02-PT2-RADC",
       "numero": "7.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO ADICIONAL PISO TIPO 2 (PISO 16 A 22)",
-      "pdf": "LA SCALA_EST_TOR-1_07.02_PT2-RADC.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-07.02-PT2-RADC.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "plano": "LA SCALA_EST_TOR-1-07.03-PT2-RINF",
       "numero": "7.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO INFERIOR PISO TIPO 2 ( PISO 16 A PISO 22 )",
-      "pdf": "LA SCALA_EST_TOR-1_07.03_PT2-RINF.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-07.03-PT2-RINF.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_07.04_PT2-RSUP",
+      "plano": "LA SCALA_EST_TOR-1-07.04-PT2-RSUP",
       "numero": "7.04",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO SUPERIOR PISO TIPO 2 ( PISO 16 A PISO 22 )",
-      "pdf": "LA SCALA_EST_TOR-1_07.04_PT2-RSUP.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-07.04-PT2-RSUP.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_08.00_LCM-PT3",
+      "plano": "LA SCALA_EST_TOR-1-08.00-LCM-PT3",
       "numero": "8",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45965,
       "contenido": "PLANTA LOCALIZACIÓN DE MUROS PISO TIPO 3 ( PISO 22 A PISO PISO 28 )",
-      "pdf": "LA SCALA_EST_TOR-1_08.00_LCM-PT3.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-08.00-LCM-PT3.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_08.01_LDINT-PT3",
+      "plano": "LA SCALA_EST_TOR-1-08.01-LDINT-PT3",
       "numero": "8.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA LOCALIZACIÓN E IDENTIFICACIÓN DE DINTELES PISO TIPO 3 ( PISO 23 A PISO 28 )",
-      "pdf": "LA SCALA_EST_TOR-1_08.01_LDINT-PT3.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-08.01-LDINT-PT3.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_08.02_PT3-RADC",
+      "plano": "LA SCALA_EST_TOR-1-08.02-PT3-RADC",
       "numero": "8.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO ADICIONAL PISO TIPO 3 (PISO 23 A 28)",
-      "pdf": "LA SCALA_EST_TOR-1_08.02_PT3-RADC.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-08.02-PT3-RADC.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_08.03_PT3-RINF",
+      "plano": "LA SCALA_EST_TOR-1-08.03-PT3-RINF",
       "numero": "8.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO INFERIOR PISO TIPO 3 ( PISO 23 A PISO 28 )",
-      "pdf": "LA SCALA_EST_TOR-1_08.03_PT3-RINF.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-08.03-PT3-RINF.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_08.04_PT3-RSUP",
+      "plano": "LA SCALA_EST_TOR-1-08.04-PT3-RSUP",
       "numero": "8.04",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO SUPERIOR PISO TIPO 3 ( PISO 23 A PISO 28 )",
-      "pdf": "LA SCALA_EST_TOR-1_08.04_PT3-RSUP.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-08.04-PT3-RSUP.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_09.00_LCM-CUB",
+      "plano": "LA SCALA_EST_TOR-1-09.00-LCM-CUB",
       "numero": "9",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA LOCALIZACIÓN DE MUROS DE CUBIERTA",
-      "pdf": "LA SCALA_EST_TOR-1_09.00_LCM-CUB.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-09.00-LCM-CUB.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_09.01_LDINT-CUB",
+      "plano": "LA SCALA_EST_TOR-1-09.01-LDINT-CUB",
       "numero": "9.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA LOCALIZACIÓN E IDENTIFICACIÓN DE DINTELES DE CUBIERTA",
-      "pdf": "LA SCALA_EST_TOR-1_09.01_LDINT-CUB.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-09.01-LDINT-CUB.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_09.02_CUB-RADC",
+      "plano": "LA SCALA_EST_TOR-1-09.02-CUB-RADC",
       "numero": "9.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO ADICIONAL CUBIERTA",
-      "pdf": "LA SCALA_EST_TOR-1_09.02_CUB-RADC.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-09.02-CUB-RADC.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_09.03_CUB-RINF",
+      "plano": "LA SCALA_EST_TOR-1-09.03-CUB-RINF",
       "numero": "9.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA  DE REFUERZO INFERIOR CUBIERTA",
-      "pdf": "LA SCALA_EST_TOR-1_09.03_CUB-RINF.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-09.03-CUB-RINF.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_09.04_CUB-RSUP",
+      "plano": "LA SCALA_EST_TOR-1-09.04-CUB-RSUP",
       "numero": "9.04",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE REFUERZO SUPERIOR- CUBIERTA N.E. 74.20",
-      "pdf": "LA SCALA_EST_TOR-1_09.04_CUB-RSUP.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-09.04-CUB-RSUP.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_09.05_CUB-MAQ",
+      "plano": "LA SCALA_EST_TOR-1-09.05-CUB-MAQ",
       "numero": "9.05",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "PLANTA DE CUBIERTA ASCENSOR Y CUBIERTA DE ESCALERAS",
-      "pdf": "LA SCALA_EST_TOR-1_09.05_CUB-MAQ.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-09.05-CUB-MAQ.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_10.00_DINT-D1",
+      "plano": "LA SCALA_EST_TOR-1-10.00-DINT-D1",
       "numero": "10",
       "version": 2,
-      "fecha": 0,
+      "fecha": 45936,
       "contenido": "DESPIECE DE DINTELES",
-      "pdf": "LA SCALA_EST_TOR-1_10.00_DINT-D1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-10.00-DINT-D1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_10.01_DINT-D2",
+      "plano": "LA SCALA_EST_TOR-1-10.01-DINT-D2",
       "numero": "10.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE DINTELES",
-      "pdf": "LA SCALA_EST_TOR-1_10.01_DINT-D2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-10.01-DINT-D2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_10.02_DINT-D3",
+      "plano": "LA SCALA_EST_TOR-1-10.02-DINT-D3",
       "numero": "10.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE DINTELES",
-      "pdf": "LA SCALA_EST_TOR-1_10.02_DINT-D3.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-10.02-DINT-D3.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_10.03_DINT-D4",
+      "plano": "LA SCALA_EST_TOR-1-10.03-DINT-D4",
       "numero": "10.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE DINTELES",
-      "pdf": "LA SCALA_EST_TOR-1_10.03_DINT-D4.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-10.03-DINT-D4.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_10.04_DINT-D5",
+      "plano": "LA SCALA_EST_TOR-1-10.04-DINT-D5",
       "numero": "10.04",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE DINTELES",
-      "pdf": "LA SCALA_EST_TOR-1_10.04_DINT-D5.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-10.04-DINT-D5.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.00_MUR-D1",
+      "plano": "LA SCALA_EST_TOR-1-11.00-MUR-D1",
       "numero": "11",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.00_MUR-D1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.00-MUR-D1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.01_MUR-D2",
+      "plano": "LA SCALA_EST_TOR-1-11.01-MUR-D2",
       "numero": "11.01",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.01_MUR-D2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.01-MUR-D2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.02_MUR-D3",
+      "plano": "LA SCALA_EST_TOR-1-11.02-MUR-D3",
       "numero": "11.02",
       "version": 4,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.02_MUR-D3.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.02-MUR-D3.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.03_MUR-D4",
+      "plano": "LA SCALA_EST_TOR-1-11.03-MUR-D4",
       "numero": "11.03",
       "version": 4,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.03_MUR-D4.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.03-MUR-D4.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.04_MUR-D5",
+      "plano": "LA SCALA_EST_TOR-1-11.04-MUR-D5",
       "numero": "11.04",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.04_MUR-D5.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.04-MUR-D5.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.05_MUR-D6",
+      "plano": "LA SCALA_EST_TOR-1-11.05-MUR-D6",
       "numero": "11.05",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.05_MUR-D6.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.05-MUR-D6.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.06_MUR-D7",
+      "plano": "LA SCALA_EST_TOR-1-11.06-MUR-D7",
       "numero": "11.06",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.06_MUR-D7.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.06-MUR-D7.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.07_MUR-D8",
+      "plano": "LA SCALA_EST_TOR-1-11.07-MUR-D8",
       "numero": "11.07",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.07_MUR-D8.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.07-MUR-D8.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.08_MUR-D9",
+      "plano": "LA SCALA_EST_TOR-1-11.08-MUR-D9",
       "numero": "11.08",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.08_MUR-D9.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.08-MUR-D9.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.09_MUR-D10",
+      "plano": "LA SCALA_EST_TOR-1-11.09-MUR-D10",
       "numero": "11.09",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.09_MUR-D10.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.09-MUR-D10.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.10_MUR-D11",
+      "plano": "LA SCALA_EST_TOR-1-11.10-MUR-D11",
       "numero": "11.1",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.10_MUR-D11.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.10-MUR-D11.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.11_MUR-D12",
+      "plano": "LA SCALA_EST_TOR-1-11.11-MUR-D12",
       "numero": "11.11",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.11_MUR-D12.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.11-MUR-D12.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.12_MUR-D13",
+      "plano": "LA SCALA_EST_TOR-1-11.12-MUR-D13",
       "numero": "11.12",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.12_MUR-D13.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.12-MUR-D13.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.13_MUR-D14",
+      "plano": "LA SCALA_EST_TOR-1-11.13-MUR-D14",
       "numero": "11.13",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.13_MUR-D14.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.13-MUR-D14.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.14_MUR-D15",
+      "plano": "LA SCALA_EST_TOR-1-11.14-MUR-D15",
       "numero": "11.14",
       "version": 4,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.14_MUR-D15.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.14-MUR-D15.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.15_MUR-D16",
+      "plano": "LA SCALA_EST_TOR-1-11.15-MUR-D16",
       "numero": "11.15",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.15_MUR-D16.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.15-MUR-D16.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.16_MUR-D17",
+      "plano": "LA SCALA_EST_TOR-1-11.16-MUR-D17",
       "numero": "11.16",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.16_MUR-D17.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.16-MUR-D17.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.17_MUR-D18",
+      "plano": "LA SCALA_EST_TOR-1-11.17-MUR-D18",
       "numero": "11.17",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.17_MUR-D18.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.17-MUR-D18.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.18_MUR-D19",
+      "plano": "LA SCALA_EST_TOR-1-11.18-MUR-D19",
       "numero": "11.18",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.18_MUR-D19.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.18-MUR-D19.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.19_MUR-D20",
+      "plano": "LA SCALA_EST_TOR-1-11.19-MUR-D20",
       "numero": "11.19",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.19_MUR-D20.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.19-MUR-D20.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.20_MUR-D21",
+      "plano": "LA SCALA_EST_TOR-1-11.20-MUR-D21",
       "numero": "11.2",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.20_MUR-D21.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.20-MUR-D21.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.21_MUR-D22",
+      "plano": "LA SCALA_EST_TOR-1-11.21-MUR-D22",
       "numero": "11.21",
       "version": 3,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.21_MUR-D22.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.21-MUR-D22.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_11.22_DT-MUR",
+      "plano": "LA SCALA_EST_TOR-1-11.22-DT-MUR",
       "numero": "11.22",
       "version": 1,
-      "fecha": 0,
+      "fecha": 45716,
       "contenido": "DETALLES DE MUROS",
-      "pdf": "LA SCALA_EST_TOR-1_11.22_DT-MUR.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-11.22-DT-MUR.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_12.00_ESC-2",
+      "plano": "LA SCALA_EST_TOR-1-12.00-ESC-2",
       "numero": "12",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE ESCALERA TIPO 1 (PISO 1 A 2)",
-      "pdf": "LA SCALA_EST_TOR-1_12.00_ESC-2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-12.00-ESC-2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_12.01_ESC-2",
+      "plano": "LA SCALA_EST_TOR-1-12.01-ESC-2",
       "numero": "12.01",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE ESCALERA TIPO 2 (PISO 1 A 2)",
-      "pdf": "LA SCALA_EST_TOR-1_12.01_ESC-2.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-12.01-ESC-2.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_12.02_ESC-1",
+      "plano": "LA SCALA_EST_TOR-1-12.02-ESC-1",
       "numero": "12.02",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE ESCALERAS TIPO 1 Y 2 (PISO 3 A 28)",
-      "pdf": "LA SCALA_EST_TOR-1_12.02_ESC-1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-12.02-ESC-1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_12.03_ESC-1",
+      "plano": "LA SCALA_EST_TOR-1-12.03-ESC-1",
       "numero": "12.03",
       "version": 2,
-      "fecha": 0,
+      "fecha": 46080,
       "contenido": "DESPIECE ESCALERA TIPO 1 Y 2 (PISO 28 A CUBIERTA)",
-      "pdf": "LA SCALA_EST_TOR-1_12.03_ESC-1.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-12.03-ESC-1.pdf"
     },
     {
-      "plano": "LA SCALA_EST_TOR-1_13.00_DT-NOES",
+      "plano": "LA SCALA_EST_TOR-1-13.00-DT-NOES",
       "numero": "13",
       "version": 1,
-      "fecha": 0,
+      "fecha": 45716,
       "contenido": "DETALLES NOES",
-      "pdf": "LA SCALA_EST_TOR-1_13.00_DT-NOES.pdf"
+      "pdf": "LA SCALA_EST_TOR-1-13.00-DT-NOES.pdf"
     }
   ],
   "pilotes": [
@@ -708,16 +708,6 @@
       "plano": "Plano",
       "volumen": null,
       "peso": null
-    },
-    {
-      "id": "C-01",
-      "seccion": "S=Ø70",
-      "cantidad": 1,
-      "piso": "SOTANO 2",
-      "resistencia": 56,
-      "plano": "1157-EST-2201-PD-P1-DESPICES DE COLUMNAS",
-      "volumen": 1.02,
-      "peso": 7421.25
     }
   ],
   "muros": [
@@ -733,12 +723,12 @@
       "peso": null
     },
     {
-      "id": "M-21",
-      "espesor": 0.25,
-      "longitud": 3.81,
-      "plano": "1157-EST-2210-PD-P1-DESPICES DE MUROS",
-      "cantidad": 1,
-      "piso": "SOTANO 2",
+      "id": "M-1",
+      "espesor": 0.3,
+      "longitud": 2.37,
+      "plano": "LA SCALA_EST_TOR-1_11.00_MUR-D1",
+      "cantidad": 3,
+      "piso": "Cimentacion",
       "resistencia": 56,
       "volumen": 2.62,
       "peso": 17511.97
@@ -766,7 +756,28 @@
       "peso": 134824
     }
   ],
-  "vigasAcople": [],
+  "vigas_acople": [
+    {
+      "id": "ID VIGA",
+      "piso": "Piso",
+      "seccion": "Sección",
+      "plano": "Plano",
+      "cantidad": null,
+      "resistencia": null,
+      "volumen": null,
+      "peso": null
+    },
+    {
+      "id": "VC-001",
+      "piso": "Cimentación",
+      "seccion": "S=60x100",
+      "plano": "1157-EST-2303-PD-P1-DESPIECE VIGAS CIM",
+      "cantidad": 1,
+      "resistencia": 42,
+      "volumen": 32.8,
+      "peso": 134824
+    }
+  ],
   "losas": [
     {
       "piso": "Piso",
@@ -777,28 +788,260 @@
       "peso": null
     },
     {
-      "piso": "Cimentación",
-      "plano": "1157-EST-2300-PP-P1-PLANTA DE CIMENTACIÓN",
-      "resistencia": 42,
-      "area": 2694.23,
-      "volumen": 234.01,
-      "peso": 12065.03
-    },
-    {
-      "piso": "Sotano",
-      "plano": "1157-EST-2350-PP-P1-PLANTA SÓTANO 1",
-      "resistencia": 42,
-      "area": 2734.17,
-      "volumen": 234.17,
-      "peso": 22824.54
+      "piso": "Cimentacion",
+      "plano": "LA SCALA_EST_TOR-1_03.01_CIM",
+      "resistencia": 35,
+      "area": 732.11,
+      "volumen": 0,
+      "peso": 0
     },
     {
       "piso": "Piso 1",
-      "plano": "1157-EST-2375-PP-P1-PLANTA PISO 1",
-      "resistencia": 42,
-      "area": 2727.73,
-      "volumen": 229.23,
-      "peso": 22770.85
+      "plano": "LA SCALA_EST_TOR-1_04.03_P1-RINF",
+      "resistencia": 35,
+      "area": 732.11,
+      "volumen": 81.24,
+      "peso": 5418
+    },
+    {
+      "piso": "Piso 2",
+      "plano": "LA SCALA_EST_TOR-1_05.03_P2-RINF",
+      "resistencia": 35,
+      "area": 747.01,
+      "volumen": 80.36,
+      "peso": 5750
+    },
+    {
+      "piso": "Piso 3",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 35,
+      "area": 678.72,
+      "volumen": 75.74,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 4",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 35,
+      "area": 678.72,
+      "volumen": 75.87,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 5",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 35,
+      "area": 678.72,
+      "volumen": 75.87,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 6",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 35,
+      "area": 678.72,
+      "volumen": 75.87,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 7",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 35,
+      "area": 678.72,
+      "volumen": 75.87,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 8",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 35,
+      "area": 678.72,
+      "volumen": 75.87,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 9",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 31.5,
+      "area": 678.72,
+      "volumen": 76.01,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 10",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 31.5,
+      "area": 678.72,
+      "volumen": 76.01,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 11",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 31.5,
+      "area": 678.72,
+      "volumen": 76.01,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 12",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 31.5,
+      "area": 678.72,
+      "volumen": 76.01,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 13",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 31.5,
+      "area": 678.72,
+      "volumen": 76.01,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 14",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 31.5,
+      "area": 678.72,
+      "volumen": 76.32,
+      "peso": 5483
+    },
+    {
+      "piso": "Piso 15",
+      "plano": "LA SCALA_EST_TOR-1_06.03_PT1-RINF",
+      "resistencia": 31.5,
+      "area": 678.72,
+      "volumen": 76.32,
+      "peso": 5483
+    },
+    {
+      "piso": "Piso 16",
+      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "resistencia": 24.5,
+      "area": 678.71,
+      "volumen": 75.86,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 17",
+      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "resistencia": 24.5,
+      "area": 678.71,
+      "volumen": 75.86,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 18",
+      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "resistencia": 24.5,
+      "area": 678.71,
+      "volumen": 75.86,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 19",
+      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "resistencia": 24.5,
+      "area": 678.71,
+      "volumen": 75.86,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 20",
+      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "resistencia": 24.5,
+      "area": 678.71,
+      "volumen": 75.86,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 21",
+      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "resistencia": 24.5,
+      "area": 678.71,
+      "volumen": 75.86,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 22",
+      "plano": "LA SCALA_EST_TOR-1_07.03_PT2-RINF",
+      "resistencia": 24.5,
+      "area": 678.71,
+      "volumen": 75.86,
+      "peso": 5461
+    },
+    {
+      "piso": "Piso 23",
+      "plano": "LA SCALA_EST_TOR-1_08.03_PT3-RINF",
+      "resistencia": 21,
+      "area": 680.87,
+      "volumen": 76.08,
+      "peso": 5507
+    },
+    {
+      "piso": "Piso 24",
+      "plano": "LA SCALA_EST_TOR-1_08.03_PT3-RINF",
+      "resistencia": 21,
+      "area": 680.87,
+      "volumen": 76.08,
+      "peso": 5507
+    },
+    {
+      "piso": "Piso 25",
+      "plano": "LA SCALA_EST_TOR-1_08.03_PT3-RINF",
+      "resistencia": 21,
+      "area": 680.87,
+      "volumen": 76.08,
+      "peso": 5507
+    },
+    {
+      "piso": "Piso 26",
+      "plano": "LA SCALA_EST_TOR-1_08.03_PT3-RINF",
+      "resistencia": 21,
+      "area": 680.87,
+      "volumen": 76.08,
+      "peso": 5507
+    },
+    {
+      "piso": "Piso 27",
+      "plano": "LA SCALA_EST_TOR-1_08.03_PT3-RINF",
+      "resistencia": 21,
+      "area": 680.87,
+      "volumen": 76.08,
+      "peso": 5507
+    },
+    {
+      "piso": "Piso 28",
+      "plano": "LA SCALA_EST_TOR-1_08.03_PT3-RINF",
+      "resistencia": 21,
+      "area": 680.87,
+      "volumen": 76.08,
+      "peso": 5507
+    },
+    {
+      "piso": "Cubierta",
+      "plano": "LA SCALA_EST_TOR-1_09.03_CUB-RINF",
+      "resistencia": 21,
+      "area": 686.32,
+      "volumen": 104.08,
+      "peso": 7494
+    },
+    {
+      "piso": "Cubierta esc",
+      "plano": "LA SCALA_EST_TOR-1_09.05_CUB-MAQ",
+      "resistencia": 21,
+      "area": 112.63,
+      "volumen": 13.52,
+      "peso": 793
+    },
+    {
+      "piso": "Cubierta asc",
+      "plano": "LA SCALA_EST_TOR-1_09.05_CUB-MAQ",
+      "resistencia": 21,
+      "area": 16.69,
+      "volumen": 3.34,
+      "peso": 566
     }
   ],
   "contencion": [
@@ -811,16 +1054,6 @@
       "resistencia": null,
       "volumen": null,
       "peso": null
-    },
-    {
-      "id": "Contención Tipo 1",
-      "espesor": 0.3,
-      "longitud": 197,
-      "altura": 7.5,
-      "plano": "1157-EST-2220-PD-P1-DESPIECE DE MUROS DE CONTENCIÓN",
-      "resistencia": 35,
-      "volumen": 313.79,
-      "peso": 45839.35
     }
   ],
   "capitulos": [
@@ -844,12 +1077,12 @@
     },
     {
       "capitulo": "Pilotes",
-      "volumen": 0,
-      "peso": 0,
-      "area": 0,
-      "cuantiaVol": null,
-      "cuantiaArea": null,
-      "consumo": null
+      "volumen": 33873,
+      "peso": 107702,
+      "area": 732.11,
+      "cuantiaVol": 3.17958255837983,
+      "cuantiaArea": 147.111772821024,
+      "consumo": 46.2676373768969
     },
     {
       "capitulo": "Contencion",

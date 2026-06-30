@@ -31,6 +31,14 @@ const CAMPOS = {
     peso: "Peso refuerzo (kg)",
     volumen: "Volumen (m³)"
   },
+  vigas_acople: {
+    id: "ID Viga Acople",
+    piso: "Piso",
+    seccion: "Sección",
+    plano: "Plano",
+    peso: "Peso refuerzo (kg)",
+    volumen: "Volumen (m³)"
+  },
     losas: {
     piso: "Piso",
     plano: "Plano",
@@ -80,6 +88,12 @@ function configurarSideMenu() {
       document.getElementById("sideNoes")?.remove();
 }
 
+function obtenerTablaActual() {
+  return tipo === "vigas_acople"
+    ? DATA.vigas_acople
+    : DATA[tipo];
+}
+
 /* =====================================================
    INICIALIZACIÓN 
 ===================================================== */
@@ -97,7 +111,7 @@ fetch("data/datos.json")
       return;
     }
 
-    if (tipo === "vigas" || tipo === "losas") {
+    if (tipo === "vigas" || tipo === "vigas_acople" || tipo === "losas") {
 
       elementos = DATA[tipo].filter(e =>
         !e.piso ||
@@ -321,7 +335,7 @@ function seleccionarElemento(el) {
     <div class="card-detalle" id="cardDetalle">
       ${Object.keys(campos)
         .filter(c => {
-          if (tipo === "vigas" && (c === "peso" || c === "volumen")) {
+          if ((tipo === "vigas" || tipo === "vigas_acople")&& (c === "peso" || c === "volumen")) {
             return false;
           }
           return el[c] !== undefined;
@@ -384,7 +398,7 @@ function seleccionarElemento(el) {
 
   let registros;
 
-  if (tipo === "vigas") {
+  if (tipo === "vigas" || tipo === "vigas_acople") {
     // 👉 SOLO la viga seleccionada
     registros = [el];
   } else {
@@ -396,7 +410,7 @@ function seleccionarElemento(el) {
 
 
 
-  if (tipo === "vigas") {
+  if (tipo === "vigas" || tipo === "vigas_acople") {
   const aceroPiso = obtenerAceroTotalVigasPorPiso(el.piso);
 
   document.getElementById("kpiPeso").textContent =
@@ -522,7 +536,7 @@ function actualizarKPIs(registrosElemento, pisoSeleccionado) {
         `Volumen total de ${cantidad} ${nombreTipo} Tipo ${el.id} (m³)`;
 
     }
-    else if (tipo === "vigas") {
+    else if (tipo === "vigas" || tipo === "vigas_acople") {
 
       const piso = registrosElemento[0]?.piso || "";
 
@@ -532,12 +546,12 @@ function actualizarKPIs(registrosElemento, pisoSeleccionado) {
     }
   }
 
-  if (tipo === "vigas") {
+  if (tipo === "vigas" || tipo === "vigas_acople") {
 
     const piso = registrosElemento[0]?.piso;
 
     // Volumen TOTAL de vigas del piso (para cuantía promedio)
-    volumenTotal = DATA.vigas
+    volumenTotal = obtenerTablaActual()
       .filter(v => v.piso === piso)
       .reduce((s, v) => s + (Number(v.volumen) || 0), 0);
 
@@ -656,7 +670,7 @@ function renderGrafica() {
   }
 
   // ===== VIGAS =====
-  else if (tipo === "vigas") {
+  else if (tipo === "vigas" || tipo === "vigas_acople") {
     const piso = elementoSeleccionado.piso;
 
     valorUnidad =
@@ -983,7 +997,7 @@ function mostrarComparativoEntrepiso(pisoSeleccionado) {
 
 function obtenerTotalProyectoPorTipo(campo) {
 
-  if (tipo === "vigas") {
+  if (tipo === "vigas" || tipo === "vigas_acople") {
     if (campo === "peso") {
       const pisos = [...new Set(DATA.vigas.map(v => v.piso))];
       return pisos.reduce(
