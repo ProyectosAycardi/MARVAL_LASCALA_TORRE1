@@ -13,6 +13,7 @@ fetch("data/datos.json")
   .then(data => {
     DATA = data;
     const config = DATA.info.configuracion || {};
+    const nombreVigas = config.nombreVigas || "Vigas";
     document.getElementById("tituloProyecto").textContent =
       data.info.proyecto;
 
@@ -53,6 +54,12 @@ fetch("data/datos.json")
 
     if (carbonoEl) {
       carbonoEl.textContent = carbono.toLocaleString();
+    }
+
+    const cardVigas = document.getElementById("cardVigas");
+
+    if (cardVigas) {
+        cardVigas.querySelector("span").textContent = nombreVigas;
     }
 
     // inicializar vista

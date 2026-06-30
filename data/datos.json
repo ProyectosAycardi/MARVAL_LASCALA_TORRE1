@@ -23,7 +23,8 @@
       "pilotes": true,
       "vigasCimentacion": true,
       "losaCimentacion": true,
-      "noes": true
+      "noes": true,
+      "nombreVigas": "Dinteles"
     }
   },
   "planos": [
