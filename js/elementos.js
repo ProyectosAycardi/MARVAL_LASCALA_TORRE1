@@ -57,6 +57,8 @@ let elementoSeleccionado = null;
 
 const tipo = new URLSearchParams(window.location.search).get("tipo");
 
+let nombreSeccion = "";
+
 const tituloSeccion = document.getElementById("tituloSeccion");
 const lista = document.getElementById("lista");
 const detalle = document.getElementById("detalle");
@@ -103,6 +105,25 @@ fetch("data/datos.json")
   .then(data => {
     DATA = data;
     configurarSideMenu();
+
+    const config = DATA.info.configuracion || {};
+
+    if (tipo === "vigas") {
+        nombreSeccion = config.nombreVigas || "Vigas";
+    }
+    else if (tipo === "vigas_acople") {
+        nombreSeccion = "Vigas de Acople";
+    }
+    else if (tipo === "losas") {
+        nombreSeccion = "Losas";
+    }
+    else {
+        nombreSeccion =
+            tipo.charAt(0).toUpperCase() + tipo.slice(1);
+    }
+
+    tituloSeccion.textContent = nombreSeccion;
+
     document.getElementById("tituloProyecto").textContent =
       data.info.proyecto;
 
@@ -540,8 +561,11 @@ function actualizarKPIs(registrosElemento, pisoSeleccionado) {
 
       const piso = registrosElemento[0]?.piso || "";
 
+      const nombreVigas =
+        DATA.info.configuracion?.nombreVigas || "Vigas";
+
       labelVol.textContent =
-        `Volumen total de vigas en ${piso} (m³)`;
+        `Volumen total de ${nombreVigas.toLowerCase()} en ${piso} (m³)`;
 
     }
   }
